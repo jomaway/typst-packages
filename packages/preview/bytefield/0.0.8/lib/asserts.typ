@@ -1,4 +1,4 @@
-#import "@preview/oxifmt:0.2.1": strfmt
+#import "@preview/oxifmt:1.0.0": strfmt
 
 
 #let assert-dict(arg, var_name) = {
